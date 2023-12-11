@@ -38,16 +38,16 @@ const Main = (props: IMainProps) => (
           <li className="mr-10 text-center">
             <Link href="/cinematography">
               <a className="border-none text-center text-gray-700 hover:text-gray-900">
-                The Films
+                The Videos
               </a>
             </Link>
           </li>
           <li className="mr-10 text-right">
-            <a href="https://www.ronnycoste.com/about">
+            <Link href="/about">
               <a className="border-none text-right text-gray-700 hover:text-gray-900">
-                The Artist
+                The Relationship
               </a>
-            </a>
+            </Link>
           </li>
           {/* <li className="mr-10 text-right">
             <a href="https://store.ronnycoste.com">
@@ -72,7 +72,7 @@ const Main = (props: IMainProps) => (
         <span role="img" aria-label="Love">
           ♥
         </span>{' '}
-        by <a href="https://www.ronnycoste.com">Ronny Coste</a>
+        by Jiayong Lin
       </div>
     </div>
   </div>
