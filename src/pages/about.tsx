@@ -12,13 +12,13 @@ const About = () => (
       beautiful journey. From our first date , to our travel adventures, every
       moment we shared was a masterpiece. We are the embodiment of opposites
       attract. Turn the pages and relive the memories, these photos are proof
-      that love isn't always sunshine and roses. It's about embracing the messy,
-      the funny, and the downright bizarre. It's about finding someone who makes
-      you laugh so hard your sides hurt, and then holding them close when the
-      tears fall. So, here's to our love story, a story that's as hilarious as
-      it is heartwarming. May these photos forever remind us that even the most
-      ridiculous moments can be the most precious. Happy Anniversay and to many
-      more!
+      that love is not always sunshine and roses. It is about embracing the
+      messy, the funny, and the downright bizarre. It is about finding someone
+      who makes you laugh so hard your sides hurt, and then holding them close
+      when the tears fall. So, here is to our love story, a story that is as
+      hilarious as it is heartwarming. May these photos forever remind us that
+      even the most ridiculous moments can be the most precious. Happy
+      Anniversay and to many more!
     </p>
   </Main>
 );
